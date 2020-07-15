@@ -7,12 +7,13 @@ scipy>=0.14.1
 
 scikit-learn>=0.22.0,<0.23
 
+openml
 lockfile
 joblib
 psutil
 pyyaml
 liac-arff
-pandas<1.0
+pandas
 
 ConfigSpace>=0.4.0,<0.5
 pynisher>=0.4.2
